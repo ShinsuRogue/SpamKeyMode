@@ -1,0 +1,2 @@
+# SpamKeyMode
+Valheim QoL mode
