@@ -1,0 +1,10 @@
+{
+  "name": "SpamKeyMod",
+  "version_number": "2.0.0",
+  "website_url": "",
+  "description": "Automates repetitive actions in Valheim without changing game mechanics. Supports Attack, Block, Interact, Sprint, Fishing, Bow, Eitr, and more.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333",
+    "ValheimModding-Jotunn-2.29.1"
+  ]
+}
